@@ -17,7 +17,3 @@ so to run it:
 
 java -jar your_war_file.war
 
-## Tuturial
-https://www.javaguides.net/2019/08/spring-boot-web-application-with-jsp-crud-example-tutorial.html
-
-# AWS Beanstalk: deployment
